@@ -1,2 +1,2 @@
 # Flash_cards
-Responsive flash profile cards using HTML, CSS and JAVASCRIPT
+Flash profile cards made using HTML, CSS and JAVASCRIPT, responsive on different screen sizes.
